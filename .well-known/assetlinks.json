@@ -1,5 +1,11 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.directfn.universal-alawwal-qa-mobile",
-                 "sha256_cert_fingerprints": ["2C:48:F0:88:16:2A:FB:44:1E:2E:05:E0:8B:0E:FF:82:A8:F8:C4:A9:CC:89:79:48:50:55:29:1B:11:56:C1:A7"] }
-  }]
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.binuka.wordtool",
+        "sha256_cert_fingerprints":
+          ["2C:48:F0:88:16:2A:FB:44:1E:2E:05:E0:8B:0E:FF:82:A8:F8:C4:A9:CC:89:79:48:50:55:29:1B:11:56:C1:A7"]
+      }
+    }
+  ]

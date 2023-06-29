@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.binuka.deeplink",
-      "sha256_cert_fingerprints": [
-        "E3:75:4B:AE:C7:B4:96:93:41:FC:BF:A0:72:E1:42:66:92:97:C6:75:29:A4:72:7C:C3:46:36:11:31:4E:0F:1A"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.binuka.deeplink",
+    "sha256_cert_fingerprints":
+    ["E3:75:4B:AE:C7:B4:96:93:41:FC:BF:A0:72:E1:42:66:92:97:C6:75:29:A4:72:7C:C3:46:36:11:31:4E:0F:1A"]
   }
-]
+}]

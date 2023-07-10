@@ -1,4 +1,3 @@
-// document.cookie = "firstName=BinukaKamesh; expires=Sun, 1 January 2030 12:00:00 UTC; path=/";
-// console.log(navigator.cookieEnabled);
-// console.log("COOKIE IS: ", document.cookie);
-// alert("COOKIES ARE:::" + document.cookie);
+let now = new Date();
+now.setTime(now.getTime() + 60000);
+document.cookie = "name=BikzCookie; expires=" + now.toUTCString() + "; path=/";

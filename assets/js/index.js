@@ -2,12 +2,6 @@ let now = new Date();
 now.setTime(now.getTime() + 60000);
 document.cookie = "name=BikzCookie; expires=" + now.toUTCString() + "; path=/";
 
-let cookie1 = getSSOToken("name");
-let cookie2 = getSSOToken("UUID");
-
-console.log("Name cookie: " + cookie1);
-console.log("UUID cookie: " + cookie2);
-
 let getSSOToken = function (name) {
         let cookieName = name + "=";
         let cookies = document.cookie.split(';');
@@ -25,6 +19,12 @@ let getSSOToken = function (name) {
     };
 
 
+    let cookie1 = getSSOToken("name");
+    let cookie2 = getSSOToken("UUID");
+    
+    console.log("Name cookie: " + cookie1);
+    console.log("UUID cookie: " + cookie2);
+    
     const myInterval = setInterval(setColor, 15000);
 
     function setColor() {

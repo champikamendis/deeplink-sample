@@ -5,7 +5,8 @@
       {
         "appID": "C98R689E4K.com.directfn.universal-alawwal-qa-mobile",
         "paths": [
-          "/news"
+          "*",
+          "/"
         ]
       }
     ]

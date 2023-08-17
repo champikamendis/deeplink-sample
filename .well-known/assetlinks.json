@@ -4,6 +4,22 @@
     "namespace": "android_app",
     "package_name": "com.directfn.universal_alawwal_qa",
     "sha256_cert_fingerprints":
-    ["EC:A0:AB:8E:9A:C4:E4:10:53:66:50:70:BD:FC:B2:00:12:46:92:58:43:10:31:11:88:42:55:8F:B4:4D:B8:9E"]
+    ["0B:D7:13:E2:8B:7A:FF:63:2D:DD:E0:14:9B:24:53:2B:8D:70:CE:0C:37:4F:B3:71:D6:A0:13:6E:EE:9E:80:C5"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://binuka97.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.directfn.universal_alawwal_qa",
+    "sha256_cert_fingerprints":
+    ["0B:D7:13:E2:8B:7A:FF:63:2D:DD:E0:14:9B:24:53:2B:8D:70:CE:0C:37:4F:B3:71:D6:A0:13:6E:EE:9E:80:C5"]
   }
 }]

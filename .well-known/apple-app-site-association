@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "C98R689E4K.com.directfn.universal-alawwal-qa-mobile",
+        "appID": "R6G5FAHDCX.com.directfn.universal-icap-qa-trade",
         "paths": ["*","/"]
       },
       {
-        "appID": "R6G5FAHDCX.com.directfn.universal-icap-qa-trade",
+        "appID": "C98R689E4K.com.directfn.universal-alawwal-qa-mobile",
         "paths": ["*","/"]
       }
     ]

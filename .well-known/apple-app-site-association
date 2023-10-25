@@ -3,12 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "R6G5FAHDCX.com.directfn.universal-icap-qa-trade",
-        "paths": ["/ClientWebConnector/*"]
-      },
-      {
         "appID": "C98R689E4K.com.directfn.universal-alawwal-qa-mobile",
-        "paths": ["/bikz/*"]
+        "paths": ["*","/"]
       }
     ]
   }

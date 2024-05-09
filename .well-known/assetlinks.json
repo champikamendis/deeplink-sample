@@ -4,8 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.directfn.mobile.anb_qa",
-      "sha256_cert_fingerprints":
-        ["04:70:4E:9C:82:B9:2A:F6:AD:2F:5B:AD:3D:95:6D:2D:BB:E1:67:4D:5A:F4:55:FF:BC:70:67:7F:F1:55:0D:D7"]
+      "sha256_cert_fingerprints": "04:70:4E:9C:82:B9:2A:F6:AD:2F:5B:AD:3D:95:6D:2D:BB:E1:67:4D:5A:F4:55:FF:BC:70:67:7F:F1:55:0D:D7"
     }
   }
 ]
